@@ -11,14 +11,3 @@ La aplicación se abrirá automáticamente en el navegador configurado por defec
 ¡Hola! Esta es una aplicación de tareas interactiva desarrollada con React. Puedes agregar una meta de estudio , eliminarla de la lista y marcarla como completada.
 
 A la hora de studiar Japonés es bien importante  a que puerto queremos llegar. Es por ello quew desde un principio se les pide a los estudiantes que registren sus metas personales para seguir con el ánimo bien arriba al emprender su viaje de estudio. 
-
-
-
-
-
-
-
-
-
-## Aprende React
-Si deseas aprender React, te invitamos a tomar el [curso gratuito de React (8 horas)](https://www.youtube.com/watch?v=6Jfk8ic3KVk) en el canal de YouTube de freeCodeCamp en Español.
