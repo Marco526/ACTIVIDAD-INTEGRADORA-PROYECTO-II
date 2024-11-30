@@ -7,6 +7,6 @@
 
 # Aplicacion metas personales 
 
-Hola Esta es una aplicación con react que registra las tareas y metas pesonales por las que cada estudiante desea estudia Japonés 
+Hola Esta es una aplicación con react que registra las tareas y metas pesonales por las que cada estudiante desea estudiar Japonés 
 
 # Tiene la opción de borrarlas y marcar como completada  
